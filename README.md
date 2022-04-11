@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Changhyun Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkwon&show_icons=true)](https://github.com/chkwon/github-readme-stats)
+![Changhyun Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chkwon&show_icons=true)
